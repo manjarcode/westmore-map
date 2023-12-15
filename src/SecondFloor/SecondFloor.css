@@ -1,0 +1,107 @@
+#secondFloor {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#hideStairs {
+  position: absolute;
+  top: 334px;
+  left: 388px;
+}
+
+#hideRobertStudy {
+  position: absolute;
+  top: 658px;
+  left: 254px;
+}
+
+#hideRobertChamber {
+  position: absolute;
+  top: 827px;
+  left: 254px;
+}
+
+#hideRobertToilet {
+  position: absolute;
+  top: 942px;
+  left: 254px;
+}
+
+#hideMollyHall {
+  position: absolute;
+  top: 606px;
+  left: 124px;
+}
+
+#hideMollyDressing {
+  position: absolute;
+  top: 658px;
+  left: 124px;
+}
+
+#hideMollyChamber {
+  position: absolute;
+  top: 777px;
+  left: 124px;
+}
+
+#hidePartnerGuestRoom {
+  position: absolute;
+  top: 506px;
+  left: 124px;
+}
+
+#hideFamilyGuestRoomHall {
+  position: absolute;
+  top: 334px;
+  left: 124px;
+}
+
+#hideFamilyGuestRoom1 {
+  position: absolute;
+  top: 388px;
+  left: 124px;
+}
+
+#hideFamilyGuestRoom2 {
+  position: absolute;
+  top: 388px;
+  left: 258px;
+}
+
+#hidePartnerGuestRoom2 {
+  position: absolute;
+  top: 174px;
+  left: 390px;
+}
+
+#hideFamilyToilet {
+  position: absolute;
+  top: 174px;
+  left: 266px;
+}
+
+#hideFamilyHall{
+  position: absolute;
+  top: 0px;
+  left: 214px;
+}
+
+#hideSarahRoom {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#hideRemusRoom{
+  position: absolute;
+  top: 173px;
+  left: 0px;
+}
+
+#hideDanRoom {
+  position: absolute;
+  top: 0px;
+  left: 266px;
+}

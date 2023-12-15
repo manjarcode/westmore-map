@@ -1,0 +1,101 @@
+#firstFloor {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#hideHall {
+  position: absolute;
+  top: 386px;
+  left: 144px;
+}
+
+#hideKitchen {
+  position: absolute;
+  top: 386px;
+  left: 208px;
+}
+
+#hideGuestRoom {
+  position: absolute;
+  top: 386px;
+  left: 3px;
+}
+
+#hideGuestRoomToilet {
+  position: absolute;
+  top: 386px;
+  left: 148px;
+}
+
+#hideStairs {
+  position: absolute;
+  top: 386px;
+  left: 468px;
+}
+
+#hideGuestToilet {
+  position: absolute;
+  top: 501px;
+  left: 472px;
+}
+
+#hidePrivateHall {
+  position: absolute;
+  top: 214px;
+  left: 356px;
+}
+
+#hidePrivateToilet {
+  position: absolute;
+  top: 214px;
+  left: 409px;
+}
+
+#hidePantry {
+  position: absolute;
+  top: 214px;
+  left: 20px;
+}
+
+#hideServiceRoom1 {
+  position: absolute;
+  top: 214px;
+  left: 98px;
+}
+
+#hideServiceRoom2 {
+  position: absolute;
+  top: 214px;
+  left: 164px;
+}
+
+#hideServiceRoom3 {
+  position: absolute;
+  top: 214px;
+  left: 229px;
+}
+
+#hideServiceRoom4 {
+  position: absolute;
+  top: 214px;
+  left: 296px;
+}
+
+#hideLibrary {
+  position: absolute;
+  top: 42px;
+  left: 20px;
+}
+
+#hidePrivateLiving {
+  position: absolute;
+  top: 42px;
+  left: 184px;
+}
+
+#hideTowerPorche {
+  position: absolute;
+  top: 14px;
+  left: 439px;
+}
